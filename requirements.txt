@@ -5,3 +5,4 @@ torch
 python-dotenv
 huggingface_hub
 transformers
+sentencepiece
