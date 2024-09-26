@@ -1,0 +1,7 @@
+streamlit
+pytchat
+pandas
+torch
+python-dotenv
+huggingface_hub
+transformers
