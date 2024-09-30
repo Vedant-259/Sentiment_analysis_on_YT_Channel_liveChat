@@ -36,7 +36,7 @@ tokenizer, model = load_model()
 
 # Custom keywords for sentiment adjustment
 custom_positive_keywords = ['zabardast', 'lajawab', 'must', 'faadu']
-custom_negative_keywords = ['bekaar', 'faltu', 'ganda', "lund", "Gandu", "Bobe"]
+custom_negative_keywords = ['bekaar', 'faltu', 'ganda']
 
 # Function to adjust model prediction based on custom keywords
 def adjust_sentiment_with_custom_keywords(message, model_prediction):
